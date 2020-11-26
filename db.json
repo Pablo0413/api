@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "image": "https://cdn.pixabay.com/photo/2016/03/31/19/57/avatar-1295404_960_720.png",
+        "name": "Pavlo Shubalyi",
+        "position": "Laravel, Symfony, Magento dev"
+      },
+      {
+        "id": 2,
+        "image": "https://i.insider.com/5220fb7fecad04dd358b456d?width=1100&format=jpeg&auto=webp",
+        "name": "Bill Gates",
+        "position": "Business magnate , software developer and philanthropist"
+      },
+      {
+        "id": 3,
+        "image": "https://cdn.vox-cdn.com/thumbor/jjpavgFcIdBwtac9KLIeQqQA-Sk=/0x0:3328x2151/1200x800/filters:focal(1416x1363:1948x1895)/cdn.vox-cdn.com/uploads/chorus_image/image/52780275/Gabe_Newell.0.0.jpg",
+        "name": "Gabe Newell",
+        "position": "Gaben, president of the video game developer"
+      },
+      {
+        "id": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZw_a2DziWpk_JdX6IxLMTSZ3II-XDofgkA&usqp=CAU",
+        "name": "Elon Musk",
+        "position": "Business magnate, industrial designer and engineer."
+      },
+      {
+        "id": 5,
+        "image": "https://www.booklya.ua/content/upload/persona/1k/1966/800x800/282013/taras-shevchenko.jpg",
+        "name": "Taras Shevchenko",
+        "position": "Ukrainian poet, writer, artist also known as Kobzar Taras"
+      },
+      {
+        "id": 6,
+        "image": "https://cdn.pixabay.com/photo/2016/11/18/23/38/child-1837375_960_720.png",
+        "name": "Name Surname",
+        "position": "Test Member"
+      }
+    ]
+  }
